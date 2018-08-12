@@ -1,0 +1,14 @@
+.app {
+
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    font-size: 30px;
+    padding: 10px;
+  }
+
+  p {
+    text-align: center;
+  }
+}

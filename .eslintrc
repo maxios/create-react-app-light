@@ -1,0 +1,6 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "plugins": ["react"],
+  "rules": {}
+}
